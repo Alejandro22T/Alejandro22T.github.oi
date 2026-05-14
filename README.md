@@ -48,8 +48,8 @@ Focused on frontend and backend development using JavaScript ecosystems and clou
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/TU-USUARIO
-- GitHub: https://github.com/TU-USUARIO
+- LinkedIn: www.linkedin.com/in/alejandro-espinal-3a4a392b4
+- GitHub: https://github.com/Alejandro22T
 
 ---
 
